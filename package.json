@@ -33,10 +33,10 @@
 		"test": "npm run compile && node ./node_modules/vscode/bin/test"
 	},
 	"devDependencies": {
-		"typescript": "^3.3.1",
-		"vscode": "^1.1.28",
-		"tslint": "^5.12.1",
-		"@types/node": "^10.12.21",
-		"@types/mocha": "^2.2.42"
+		"typescript": "^3.5.3",
+		"vscode": "^1.1.35",
+		"tslint": "^5.18.0",
+		"@types/node": "^12.6.8",
+		"@types/mocha": "^5.2.7"
 	}
 }
