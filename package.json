@@ -2,7 +2,7 @@
 	"name": "font-roulette",
 	"displayName": "Font Roulette",
 	"description": "Random font every time VSCode is opened",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "g07cha",
 	"repository": {
 		"url": "https://github.com/G07cha/font-roulette"
